@@ -5,6 +5,7 @@ A Dockerfile syntax coloring mode for Coda 2 and SubEthaEdit. Installation shoul
 # License and Authors
 
 [Christian Vozar](https://github.com/christianvozar) <christian@rogueethic.com>
+[Derek Norrbom](https://github.com/venuedriver) <dnorrbom@hakkasan.com>
 
 The MIT License (MIT)
 
