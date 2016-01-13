@@ -1,4 +1,4 @@
-# coda-additional-syntax-highlighting
+# coda-syntax-highlighting-addons
 Add-ons created or customized for Panic Coda syntax hightlighting. https://panic.com/coda/
 
 # Installation
